@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example011.Ex0111;
+package dvfu.mrcpk.java.example011.Ex011_1;
 
 import java.util.Date;
 public class SimpleProgram {

@@ -1,6 +1,6 @@
-package dvfu.mrcpk.java.example011.Ex0113;
+package dvfu.mrcpk.java.example011.Ex011_3;
 
-import dvfu.mrcpk.java.example011.Ex0112.Point2D;
+import dvfu.mrcpk.java.example011.Ex011_2.Point2D;
 
 public class Point2DUse {
 

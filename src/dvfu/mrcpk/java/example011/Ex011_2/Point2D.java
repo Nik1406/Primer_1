@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example011.Ex0112;
+package dvfu.mrcpk.java.example011.Ex011_2;
 
 public class Point2D {
     private int x;

@@ -1,34 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6338aded-1434-4bfc-9f12-2890e9408555" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example01/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example010/Ex0101/ComparingStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example010/Ex0102/StrToNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example010/Ex0103/StrToNum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex0111/SimpleProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex0112/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex0113/Point2DUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example02/AboutJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example08/Ex080/ArrayTypeError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example08/Ex083/CloneArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example08/Ex084/ConvertArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example08/Ex085/ArrayIndexError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example08/Ex087/ArrayTypeError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example09/Ex090/InstanceofTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6338aded-1434-4bfc-9f12-2890e9408555" name="Changes" comment="03.02.2022">
+      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex011_4/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex011_4/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex011_4/Class3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Primer_1/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Primer_1/dvfu/mrcpk/java/example01/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Primer_1/dvfu/mrcpk/java/example02/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Primer_1/dvfu/mrcpk/java/example08/Ex081/CreateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Primer_1/dvfu/mrcpk/java/example08/Ex081/CreateArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Primer_1/dvfu/mrcpk/java/example08/Ex081/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Primer_1/dvfu/mrcpk/java/example08/Ex081/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example01/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example02/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example08/Ex081/CreateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example08/Ex081/CreateArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +47,13 @@
       <recent name="dvfu.mrcpk.java.example09.Ex090" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntegerPack">
-    <configuration name="Class3" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example011.Ex0114.p1.Class3" />
+  <component name="RunManager" selected="Application.Class3 (1)">
+    <configuration name="Class3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example011.Ex011_4.Class3" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example011.Ex0114.p1.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example011.Ex011_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example010.Ex0101.ComparingStrings" />
+    <configuration name="Class3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example011.Ex0114.p1.Class3" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example010.Ex0101.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example011.Ex0114.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class3 (1)" />
         <item itemvalue="Application.IntegerPack" />
         <item itemvalue="Application.Scan" />
         <item itemvalue="Application.StrToNum2" />
         <item itemvalue="Application.StrToNum" />
-        <item itemvalue="Application.ComparingStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +145,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642939944797</updated>
     </task>
+    <task id="LOCAL-00001" summary="03.02.2022">
+      <created>1643888047079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643888047079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +165,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="03.02.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="03.02.2022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
