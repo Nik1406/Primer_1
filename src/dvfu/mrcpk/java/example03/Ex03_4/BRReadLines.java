@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example03.Ex034;
+package dvfu.mrcpk.java.example03.Ex03_4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

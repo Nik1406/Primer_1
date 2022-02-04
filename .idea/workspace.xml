@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6338aded-1434-4bfc-9f12-2890e9408555" name="Changes" comment="03.02.2022">
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex011_4/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex011_4/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvfu/mrcpk/java/example011/Ex011_4/Class3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6338aded-1434-4bfc-9f12-2890e9408555" name="Changes" comment="04.02.2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="Scan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example03.Ex035.Scan" />
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example03.Ex03_5.Scan" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example03.Ex035.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example03.Ex03_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643888047079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="04.02.2022">
+      <created>1643936622913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643936622913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +170,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="03.02.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="03.02.2022" />
+    <MESSAGE value="04.02.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="04.02.2022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

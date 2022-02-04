@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example03.Ex031;
+package dvfu.mrcpk.java.example03.Ex03_1;
 
 public class ReadCharRunner {
     public static void main(String[] args) {

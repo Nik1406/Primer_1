@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example03.Ex035;
+package dvfu.mrcpk.java.example03.Ex03_5;
 
 import java.util.Scanner;
 public class Scan {
