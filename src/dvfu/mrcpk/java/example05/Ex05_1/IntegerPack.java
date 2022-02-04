@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example05.Ex051;
+package dvfu.mrcpk.java.example05.Ex05_1;
 
 public class IntegerPack {
     public static void main(String[] args) {

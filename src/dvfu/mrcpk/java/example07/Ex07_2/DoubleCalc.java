@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example07.Ex072;
+package dvfu.mrcpk.java.example07.Ex07_2;
 
 public class DoubleCalc {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example05.Ex052;
+package dvfu.mrcpk.java.example05.Ex05_2;
 
 public class CharacterTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example06.Ex06;
+package dvfu.mrcpk.java.example06.Ex06_0;
 
 public class ComparePack {
     public static void main(String[] args) {

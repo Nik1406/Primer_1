@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example04.Ex041;
+package dvfu.mrcpk.java.example04.Ex04_1;
 
 public class LoseAccuracy {
 public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dvfu.mrcpk.java.example07.Ex071;
+package dvfu.mrcpk.java.example07.Ex07_1;
 
 import static java.lang.Math.sqrt;
 import static java.lang.Math.pow;

@@ -70,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="IntegerPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example05.Ex051.IntegerPack" />
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example05.Ex05_1.IntegerPack" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example05.Ex051.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example05.Ex05_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
