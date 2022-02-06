@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6338aded-1434-4bfc-9f12-2890e9408555" name="Changes" comment="04.02.2022">
+    <list default="true" id="6338aded-1434-4bfc-9f12-2890e9408555" name="Changes" comment="05.02.2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +44,13 @@
       <recent name="dvfu.mrcpk.java.example09.Ex090" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Class3 (1)">
-    <configuration name="Class3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example011.Ex011_4.Class3" />
+  <component name="RunManager" selected="Application.First">
+    <configuration name="BRRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example03.Ex03_3.BRRead" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example011.Ex011_4.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example03.Ex03_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example05.Ex05_1.IntegerPack" />
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example01.First" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example05.Ex05_1.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example03.Ex03_5.Scan" />
+    <configuration name="FirstOOPProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example02.FirstOOPProgram" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example03.Ex03_5.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrToNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example010.Ex0102.StrToNum" />
+    <configuration name="ReadCharRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example03.Ex03_1.ReadCharRunner" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example010.Ex0102.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example03.Ex03_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrToNum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example010.Ex0103.StrToNum2" />
+    <configuration name="ReadCharRunnerString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dvfu.mrcpk.java.example03.Ex03_2.ReadCharRunnerString" />
       <module name="Primer_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dvfu.mrcpk.java.example010.Ex0103.*" />
+          <option name="PATTERN" value="dvfu.mrcpk.java.example03.Ex03_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Class3 (1)" />
-        <item itemvalue="Application.IntegerPack" />
-        <item itemvalue="Application.Scan" />
-        <item itemvalue="Application.StrToNum2" />
-        <item itemvalue="Application.StrToNum" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.BRRead" />
+        <item itemvalue="Application.ReadCharRunnerString" />
+        <item itemvalue="Application.ReadCharRunner" />
+        <item itemvalue="Application.FirstOOPProgram" />
       </list>
     </recent_temporary>
   </component>
